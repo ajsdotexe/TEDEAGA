@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_agenda_desc">Seus próximos eventos</string>
+    <string name="widget_rotina_desc">Rotina de hoje e o que falta fazer</string>
+    <string name="widget_contas_desc">Contas fixas a vencer</string>
+    <string name="widget_nutri_desc">Calorias, macros e água do dia</string>
+</resources>

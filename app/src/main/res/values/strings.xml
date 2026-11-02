@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TEDEAGA</string>
+    <string name="title_activity_main">TEDEAGA</string>
+    <string name="package_name">app.tedeaga.mobile</string>
+    <string name="custom_url_scheme">app.tedeaga.mobile</string>
+    <string name="due_widget_description">Contas do TEDEAGA que vencem nos próximos dias</string>
+</resources>

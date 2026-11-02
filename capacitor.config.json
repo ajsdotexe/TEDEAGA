@@ -1,0 +1,12 @@
+{
+  "appId": "app.tedeaga.mobile",
+  "appName": "TEDEAGA",
+  "webDir": "www",
+  "backgroundColor": "#0d0914",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "CapacitorHttp": { "enabled": true },
+    "SplashScreen": { "launchShowDuration": 900, "backgroundColor": "#0d0914", "androidScaleType": "CENTER_INSIDE", "showSpinner": false },
+    "LocalNotifications": { "smallIcon": "ic_stat_icon", "iconColor": "#B08442" }
+  }
+}
